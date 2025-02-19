@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvvmHelpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d290de9c20ad194946e69a76083211eae8e2b2c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvvmHelpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvvmHelpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
